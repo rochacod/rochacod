@@ -1,20 +1,20 @@
-# Olá, eu sou [Guillermy Morais]!
+# Olá, eu sou Guillermy Morais
 
-Sou um(a) [estudante de análise e desenvolvimento de sistemas,] apaixonado(a) por [linguagem phyton e C  ]. Estou sempre buscando aprender coisas novas e compartilhar conhecimento com outras pessoas.
+Sou um(a) estudante de análise e desenvolvimento de sistemas apaixonado(a) por linguagem phyton e C  . Estou sempre buscando aprender coisas novas e compartilhar conhecimento com outras pessoas.
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo [a linguagem C e suas demais]
-- 💼 Trabalho como [assistente admnistrativo ]
+- 🌱 Atualmente estou aprendendo a linguagem C e suas demais
+- 💼 Trabalho como assistente admnistrativo 
 
 
 ## Tecnologias
 
 Aqui estão algumas das tecnologias com as quais trabalho e estou interessado(a):
 
-- Linguagens de Programação: [Lista de Linguagens:Python e C]
-- Frameworks e Bibliotecas: [Lista de Frameworks: React, Node.js, etc.]
-- Ferramentas de Desenvolvimento: [Lista de Ferramentas: Git, VSCode, etc.]
+- Linguagens de Programação: Lista de Linguagens:Python e C
+- Frameworks e Bibliotecas: Lista de Frameworks: React, Node.js, etc.
+- Ferramentas de Desenvolvimento: Lista de Ferramentas: Git, VSCode, etc.
 
 ## Estatísticas do GitHub
 
@@ -26,13 +26,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estou interessado(a)
 - 🐦 [Twitter](https://twitter.com/seu-perfil-do-twitter)
 - 🌐 [Website](https://seu-website.com)
 
-## Projetos em Destaque
-
-Aqui estão alguns dos meus projetos em destaque:
-
-- [Projeto 1](link-para-o-projeto-1): Breve descrição do projeto.
-- [Projeto 2](link-para-o-projeto-2): Breve descrição do projeto.
-- [Projeto 3](link-para-o-projeto-3): Breve descrição do projeto.
 
 ## Contribuições
 
